@@ -6,7 +6,7 @@
  ### Approach
  
  * First: Readig the project brief and understanding the required tasks
- * Data extraction, data validation, data merging and data modeling using SQL queries
+ * Data extraction, data validation, data merging, data cleaning and data modeling using SQL queries
  * Data manipulation, data processing and analyzing using Python
  * Data Visualization using tableau public
  * Presenting the findings using PowerPoint  
