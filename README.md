@@ -9,4 +9,7 @@
  * Data extraction, data validation, data merging, data cleaning and data modeling using SQL queries
  * Data manipulation, data processing and analyzing using Python
  * Data Visualization using tableau public
+   Project Dashboard on Tableau:
+![image](https://user-images.githubusercontent.com/25424214/161171332-cc0d2b6d-5113-4e1b-8e03-26ad81dc759a.png)
+https://public.tableau.com/views/AccentureVirtualTraining/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link
  * Presenting the findings using PowerPoint  
